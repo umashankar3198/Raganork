@@ -1,14 +1,14 @@
 {
-  "name": "raganork",
+  "name": "UMASHANKAR YADAV",
   "version": "3.0.0",
-  "description": "Raganork whatsapp bot- Modified version of Whatsasena by Yusuf usta.",
+  "description": "UMASHANKAR whatsapp Robot- Modified version of Whatsasena by UMASHANKAR Yadav.",
   "main": "./Raganork/bot.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/souravkl11/Raganork.git"
+    "url": "https://youtube.com/c/UIFACTS"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "AsenaDev / Yusuf Usta",
-  "developer": "Raganork / @souravkl11",
+  "author": "UMASHANKAR / UMASHANKAR YADAV",
+  "developer": "UMASHANKAR YADAV / @UMASHANKAR3",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/souravkl11/Raganork/issues"
+    "url": "https://youtube.com/c/UIFACTS"
   },
-  "homepage": "https://github.com/souravkl11/Raganork#readme",
+  "homepage": "https://github.com/Umashankar3/Raganork#readme",
   "dependencies": {
     "raganork-bot": "1.6.5",
     "supervisor": "0.12.0"
